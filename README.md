@@ -1,5 +1,8 @@
 <h1>README - Jogo Educativo de Matemática</h1>
 
+<h2>Descrição</h2>
+<p>Este é um jogo educativo desenvolvido em C que ajuda os jogadores a praticar operações matemáticas básicas, como soma, subtração, multiplicação e divisão. O jogo possui diferentes níveis de dificuldade e um modo infinito para desafios mais avançados. Ele foi criado com o objetivo de tornar o aprendizado de matemática mais dinâmico e divertido.</p>
+
 <h2>Desenvolvimento</h2>
 <p>O jogo foi desenvolvido em <strong>C</strong> utilizando o <strong>Visual Studio Code</strong> como ambiente de desenvolvimento.</p>
 
